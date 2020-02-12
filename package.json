@@ -1,0 +1,26 @@
+{
+  "name": "014-cruzrojo-js-package",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruzrojo/cruzrojo-js-footer.git"
+  },
+  "keywords": [
+    "footer",
+    "js"
+  ],
+  "author": "Burke M Rich <burkerichdeveloper@gmail.com> (https://www.burkerichdevelper.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cruzrojo/cruzrojo-js-footer/issues"
+  },
+  "homepage": "https://github.com/cruzrojo/cruzrojo-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
