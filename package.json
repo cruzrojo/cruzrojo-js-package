@@ -1,5 +1,5 @@
 {
-  "name": "014-cruzrojo-js-package",
+  "name": "cruzrojo-js-package",
   "version": "0.1.0",
   "description": "This module allows for a dynamic footer to be generated with an updated year and name.",
   "main": "index.js",
